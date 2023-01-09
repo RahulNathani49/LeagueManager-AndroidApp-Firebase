@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">LeagueManager</string>
+    <string-array name="teams">
+        <item>Pargol</item>
+        <item>Daniel</item>
+        <item>Richard</item>
+        <item>Lucie</item>
+        <item>Dena</item>
+    </string-array>
+</resources>

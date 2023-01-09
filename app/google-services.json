@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "636654048228",
+    "project_id": "leaguemanager-55cc8",
+    "storage_bucket": "leaguemanager-55cc8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:636654048228:android:507048a2c4519b1bd66df1",
+        "android_client_info": {
+          "package_name": "com.example.leaguemanager"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "636654048228-ntd4sgi42fr8hj3gouaav34nt5n8beni.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.leaguemanager",
+            "certificate_hash": "3c92481f558b00b6e39d1cc252939ed74f1af57b"
+          }
+        },
+        {
+          "client_id": "636654048228-o3q8m3nqv8is8rc9q56bksljeon1cufc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAEZsUDMiQP_ipmEF20CMZG7tpxgKeuRSs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "636654048228-o3q8m3nqv8is8rc9q56bksljeon1cufc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
